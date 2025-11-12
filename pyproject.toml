@@ -17,3 +17,6 @@ dev = [
     "ruff>=0.14.2",
     "ty>=0.0.1a24"
 ]
+
+[tool.setuptools]
+packages = ["app", "db"]
