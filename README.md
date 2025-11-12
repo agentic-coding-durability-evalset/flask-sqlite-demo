@@ -63,8 +63,6 @@ uv pip install -e ".[dev]"
 
 # 运行应用
 python -m app.main
-# 或
-flask run
 ```
 
 应用将在 `http://localhost:5000` 启动（默认端口）。
